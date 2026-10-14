@@ -5,7 +5,9 @@ A Python-based 2D mobile robot simulation demonstrating **Extended Kalman Filter
 This project is a simulation for learning and experimentation. It does **not** currently use ROS 2 or Gazebo.
 
 ## Demo
-[Screencast from 2026-10-14 07-50-35.webm](https://github.com/user-attachments/assets/28a2b529-7ceb-4fa7-b318-fd7a7022b743)
+
+
+https://github.com/user-attachments/assets/ba0c1e49-4b2c-4138-88b6-ded2dd5c6e4a
 
 
 ## Features
